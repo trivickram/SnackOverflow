@@ -41,6 +41,7 @@ const Footer = () => {
       <p className="footer-copyright">
         &copy; 2024 SnackOverflow. All rights reserved.
       </p>
+      <span>Made with ❤️ by Trivickram</span>
     </div>
   );
 };
