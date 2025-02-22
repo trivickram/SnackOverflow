@@ -7,12 +7,9 @@ const Footer = () => {
     <div className="footer" id="footer">
       <div className="footer-content">
         <div className="footer-content-left">
-          <h1>SnackOverflow</h1>
+          <h1>🍕 Stack Overflow</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem vero
-            praesentium veritatis, repellendus quasi, aperiam aliquam ducimus,
-            unde eius dignissimos quisquam obcaecati. Enim quo dolores
-            exercitationem. Officia quisquam temporibus deleniti.
+          No more 404 Hunger Not Found errors! We serve up hot fixes for your midnight cravings, optimized flavors, and a bug-free dining experience.
           </p>
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
