@@ -108,7 +108,7 @@ const AddItem = ({ url }) => {
               type="number"
               name="price"
               id=""
-              placeholder="$20"
+              placeholder="₹20"
             />
           </div>
         </div>
