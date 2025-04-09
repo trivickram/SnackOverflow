@@ -7,7 +7,7 @@ const Footer = () => {
     <div className="footer" id="footer">
       <div className="footer-content">
         <div className="footer-content-left">
-          <h1>🍕 Stack Overflow</h1>
+          <h1>🍕 Snack Overflow</h1>
           <p>
           No more 404 Hunger Not Found errors! We serve up hot fixes for your midnight cravings, optimized flavors, and a bug-free dining experience.
           </p>
